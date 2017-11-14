@@ -1,0 +1,29 @@
+/*oczytaj z pliku slowa1.txt wyrazy (1 wyraz w wowej linii) i
+* do pliku b.txt przepisz trzyliterowe s³owa
+* do pliku c.txt przepisz s³owa rozpoczynaj¹ce siê na literê 'a'
+* do pliku d.txt przepisz s³owa koñcze siê na 'z'
+* do pliku e.txt przepisz s³owo zakodowane kodem Cezara o kluczu 3
+* do pliku f.txt przepisz slowo zakodowane kodem Cezara o kluczu podanym przez uzytkownika
+* do pliku g.txt przepisz slowa o nieparzystej licznie znaków
+* do pliku h.txt zapisz odwrotnoœci s³ów 
+* do pliku i.txt przepisz palindromy (s³owa czytane od przodu i od tylu sa takie same
+* 					np s³owo ala, kajak, sedes)
+* do pliku j.txt przepisz te s³owa, które sa palindromami cyfrowymi (zad maturalne 
+* 					- znajdz treœæ w internecie)
+* do pliku k.txt przepisz co drugi wiersz
+* do pliku l.txt przepisz s³owa zawieraj¹ce literê 'g'
+* 
+* odczytaj z pliku slowa2.txt wyrazy (2 wyrazy w kazdej linii) i
+* do pliku y.txt przepisz te s³owa, które sa takie same
+* do pliku w.txt przepisz te s³owa, które sa angramami (zlozone z tych samych liter-
+* 					znajdz w necie algorytm)
+* 
+* odczytaj z pliku liczby.txt liczby i 
+* do pliku l1.txt przepisz liczby parzyste
+* do pliku l2.txt przepisz liczby pierwsze
+* do pliku l3.txt zapisz sumê cyfr liczby
+* 
+* STARAJ SIÊ NAPISAÆ TE PROGRAMY W JEDNYM PROGRAMIE
+* WYWOLUJ¥C KOLEJNE FUNKCJE NAPISANE POD FUNKCJ¥ MAIN
+* 
+*/
